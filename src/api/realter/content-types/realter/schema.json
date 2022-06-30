@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "realters",
+  "info": {
+    "singularName": "realter",
+    "pluralName": "realters",
+    "displayName": "realter",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "text"
+    },
+    "phone": {
+      "type": "string"
+    }
+  }
+}
