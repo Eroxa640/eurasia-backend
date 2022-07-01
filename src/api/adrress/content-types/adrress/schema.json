@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "adrresses",
+  "info": {
+    "singularName": "adrress",
+    "pluralName": "adrresses",
+    "displayName": "adrress",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "addrress": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "message": {
+      "type": "text"
+    }
+  }
+}
