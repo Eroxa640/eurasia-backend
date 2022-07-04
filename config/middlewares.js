@@ -3,6 +3,7 @@ module.exports = [
   "strapi::security",
   "strapi::cors",
   "strapi::poweredBy",
+
   "strapi::logger",
   "strapi::query",
   "strapi::body",
